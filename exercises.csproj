@@ -49,7 +49,6 @@
     <Compile Include="BiggerInt.cs" />
     <Compile Include="IslandFinder.cs" />
     <Compile Include="MissingInteger.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseWords.cs" />
   </ItemGroup>
